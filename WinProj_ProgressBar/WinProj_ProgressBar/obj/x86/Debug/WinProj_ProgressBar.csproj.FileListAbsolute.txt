@@ -1,0 +1,7 @@
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\bin\Debug\WinProj_ProgressBar.exe
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\bin\Debug\WinProj_ProgressBar.pdb
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\obj\x86\Debug\WinProj_ProgressBar.Form1.resources
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\obj\x86\Debug\WinProj_ProgressBar.Properties.Resources.resources
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\obj\x86\Debug\WinProj_ProgressBar.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\obj\x86\Debug\WinProj_ProgressBar.exe
+D:\Ptactice\WinProj_ProgressBar\WinProj_ProgressBar\obj\x86\Debug\WinProj_ProgressBar.pdb
